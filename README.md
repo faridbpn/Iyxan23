@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iyxan23&label=Profile%20views&color=0e75b6&style=flat" alt="iyxan23" />
-  <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"><img src="https://wakatime.com/badge/user/1c91a63c-2af2-4dd6-b92d-97988e8ae2e6.svg"/></a>
+  <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"><img src="https://wakatime.com/badge/user/018c1e5b-ed0d-450a-b768-e380353caa7c.svg"/></a>
   <img src="https://badge.stateful.com/Iyxan23/status.svg" alt="Iyxan23's status" />
 </p>
 
